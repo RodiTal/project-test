@@ -8,6 +8,7 @@ function App() {
       <Header/>
       <HomePage/>
       <h1>Title of my app</h1>
+      <h2>Subtitle</h2>
     </div>
   );
 };
