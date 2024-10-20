@@ -7,7 +7,7 @@ function App() {
     <div clasName="App">
       <Header/>
       <HomePage/>
-      <h1>Title</h1>
+      <h1>Title of my app</h1>
     </div>
   );
 };
